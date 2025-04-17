@@ -20,8 +20,7 @@ from typing import Tuple, Union
 
 # Third Party
 import numpy as np
-#import pinocchio as pin
-import pin
+import pinocchio as pin
 import torch
 
 
